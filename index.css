@@ -1,0 +1,19 @@
+body{
+    background-color:darkgoldenrod
+ }
+nav{
+    background-color: darkolivegreen;
+    color: peachpuff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+    background-color: teal;
+}
+footer{
+    background-color: darkolivegreen;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
